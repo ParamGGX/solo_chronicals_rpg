@@ -1,6 +1,6 @@
 # ⚔️ Chronicles of the Forgotten Realm
 
-> *A fully-featured solo fantasy tabletop RPG rules text RPG powered by Google Gemini AI, built entirely on a Samsung A50 using Termux and Streamlit.*
+> *A fully-featured solo fantasy tabletop RPG rules text RPG powered by Google Gemini AI, built entirelybusing Termux and Streamlit.*
 
 ---
 
