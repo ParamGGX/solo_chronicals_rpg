@@ -44,8 +44,8 @@ No app store. No subscription. Just you, your phone, and an adventure.
 
 **1. Clone the repository**
 
-git clone https://github.com/ParamGGX/solo-dnd-multi.git
-cd solo-dnd-multi
+git clone https://github.com/ParamGGX/solo-chronicals-rpg.git
+cd solo-chronicals-rpg
 
 **2. Install dependencies**
 
@@ -71,13 +71,12 @@ Navigate to http://localhost:8501 in your browser.
 
 pkg install python git -y
 pip install streamlit requests
-git clone https://github.com/ParamGGX/solo-dnd-multi.git
-cd solo-dnd-multi
+git clone https://github.com/ParamGGX/solo-chronicals-rpg.git
+cd solo-chronicals-rpg
 echo "your_api_key_here" > api_key.txt
 streamlit run app.py
 
 Then open http://localhost:8501 in your mobile browser.
-
 ---
 
 ## 📁 Project Structure
