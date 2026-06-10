@@ -4,7 +4,7 @@
 
 ---
 
-## 🎮 What is this?
+## 🎮 What this is:
 
 Chronicles of the Forgotten Realm is a solo tabletop RPG experience that runs entirely in your browser. An AI Dungeon Master powered by Google Gemini narrates a fully procedurally generated fantasy world, enforces modern tabletop RPG rulese, manages combat, tracks your character, and responds dynamically to every action you take.
 
