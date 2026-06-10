@@ -14,7 +14,7 @@ No app store. No subscription. Just you, your phone, and an adventure.
 
 ## ✨ Features
 
-- 🐉 **AI Dungeon Master** — Full narrative DM powered by Gemini, enforcing D&D 2024 rules
+- 🐉 **AI Dungeon Master** — Full narrative DM powered by Gemini, enforcing modern tabletop ruleset
 - 🧝 **Character Creation** — Choose species, class, subclass, background, skills and proficiencies
 - ⚔️ **Loadout System** — Class-specific starting gear, weapons, armor, spells and cantrips
 - 🎲 **Animated Dice Roller** — d4 through d20 with roll animations sent directly to the DM
@@ -34,7 +34,7 @@ No app store. No subscription. Just you, your phone, and an adventure.
 
 ## 📋 Requirements
 
-- Python 3.8+
+- Python 3.13+
 - A free Google Gemini API key from [Google AI Studio](https://aistudio.google.com)
 - Internet connection
 
