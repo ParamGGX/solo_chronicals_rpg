@@ -1,0 +1,4 @@
+api_key.txt
+saves/
+__pycache__/
+*.pyc
