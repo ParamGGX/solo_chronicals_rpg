@@ -1,12 +1,12 @@
 # ⚔️ Chronicles of the Forgotten Realm
 
-> *A fully-featured solo D&D 5e text RPG powered by Google Gemini AI, built entirely on a Samsung A50 using Termux and Streamlit.*
+> *A fully-featured solo fantasy tabletop RPG rules text RPG powered by Google Gemini AI, built entirely on a Samsung A50 using Termux and Streamlit.*
 
 ---
 
 ## 🎮 What is this?
 
-Chronicles of the Forgotten Realm is a solo tabletop RPG experience that runs entirely in your browser. An AI Dungeon Master powered by Google Gemini narrates a fully procedurally generated fantasy world, enforces D&D 2024 rules, manages combat, tracks your character, and responds dynamically to every action you take.
+Chronicles of the Forgotten Realm is a solo tabletop RPG experience that runs entirely in your browser. An AI Dungeon Master powered by Google Gemini narrates a fully procedurally generated fantasy world, enforces modern tabletop RPG rulese, manages combat, tracks your character, and responds dynamically to every action you take.
 
 No app store. No subscription. Just you, your phone, and an adventure.
 
@@ -103,7 +103,7 @@ solo-dnd-multi/
 ## 👤 Author
 
 ParamGGX
-Built from scratch on a Samsung A50 using Termux.
+Built from scratch using Termux.
 GitHub: https://github.com/ParamGGX
 
 ---
