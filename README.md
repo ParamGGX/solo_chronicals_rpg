@@ -97,7 +97,7 @@ solo-dnd-multi/
 - Get a free API key at https://aistudio.google.com
 - Save files are stored locally in the saves/ folder
 - The app uses Gemini gemini-3.5-flash model
-
+- This project uses the Google Gemini API but is not affiliated with, endorsed by, or connected to Google LLC in any way.
 ---
 
 ## 👤 Author
@@ -106,6 +106,7 @@ ParamGGX
 Built from scratch using Termux.
 GitHub: https://github.com/ParamGGX
 
+For any problems, bugs, or errors with this project, feel free to contact the author at paramveersingh.super@gmail.com
 ---
 
 ## 📜 License
